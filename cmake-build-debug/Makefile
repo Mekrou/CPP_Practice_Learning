@@ -122,6 +122,33 @@ CPP_Practice_Learning/fast:
 	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/build
 .PHONY : CPP_Practice_Learning/fast
 
+Notes_Practice/operators.obj: Notes_Practice/operators.cpp.obj
+
+.PHONY : Notes_Practice/operators.obj
+
+# target to build an object file
+Notes_Practice/operators.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj
+.PHONY : Notes_Practice/operators.cpp.obj
+
+Notes_Practice/operators.i: Notes_Practice/operators.cpp.i
+
+.PHONY : Notes_Practice/operators.i
+
+# target to preprocess a source file
+Notes_Practice/operators.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.i
+.PHONY : Notes_Practice/operators.cpp.i
+
+Notes_Practice/operators.s: Notes_Practice/operators.cpp.s
+
+.PHONY : Notes_Practice/operators.s
+
+# target to generate assembly for a file
+Notes_Practice/operators.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.s
+.PHONY : Notes_Practice/operators.cpp.s
+
 Simple_Programs/favorite_number.obj: Simple_Programs/favorite_number.cpp.obj
 
 .PHONY : Simple_Programs/favorite_number.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... CPP_Practice_Learning
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Notes_Practice/operators.obj
+	@echo ... Notes_Practice/operators.i
+	@echo ... Notes_Practice/operators.s
 	@echo ... Simple_Programs/favorite_number.obj
 	@echo ... Simple_Programs/favorite_number.i
 	@echo ... Simple_Programs/favorite_number.s
