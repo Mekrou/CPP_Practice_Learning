@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Simple_Programs/favorite_number.cpp">
+			<Option target="CPP_Practice_Learning"/>
+		</Unit>
+		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Simple_Programs/favorite_number.h">
+			<Option target="CPP_Practice_Learning"/>
+		</Unit>
 		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/main.cpp">
 			<Option target="CPP_Practice_Learning"/>
 		</Unit>

@@ -122,6 +122,33 @@ CPP_Practice_Learning/fast:
 	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/build
 .PHONY : CPP_Practice_Learning/fast
 
+Simple_Programs/favorite_number.obj: Simple_Programs/favorite_number.cpp.obj
+
+.PHONY : Simple_Programs/favorite_number.obj
+
+# target to build an object file
+Simple_Programs/favorite_number.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj
+.PHONY : Simple_Programs/favorite_number.cpp.obj
+
+Simple_Programs/favorite_number.i: Simple_Programs/favorite_number.cpp.i
+
+.PHONY : Simple_Programs/favorite_number.i
+
+# target to preprocess a source file
+Simple_Programs/favorite_number.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.i
+.PHONY : Simple_Programs/favorite_number.cpp.i
+
+Simple_Programs/favorite_number.s: Simple_Programs/favorite_number.cpp.s
+
+.PHONY : Simple_Programs/favorite_number.s
+
+# target to generate assembly for a file
+Simple_Programs/favorite_number.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.s
+.PHONY : Simple_Programs/favorite_number.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... CPP_Practice_Learning
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Simple_Programs/favorite_number.obj
+	@echo ... Simple_Programs/favorite_number.i
+	@echo ... Simple_Programs/favorite_number.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

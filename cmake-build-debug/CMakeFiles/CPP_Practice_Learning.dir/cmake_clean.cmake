@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CPP_Practice_Learning.dir/main.cpp.obj"
+  "CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj"
   "CPP_Practice_Learning.pdb"
   "CPP_Practice_Learning.exe"
   "CPP_Practice_Learning.exe.manifest"
