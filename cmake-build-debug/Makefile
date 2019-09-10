@@ -176,6 +176,33 @@ Simple_Programs/favorite_number.cpp.s:
 	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.s
 .PHONY : Simple_Programs/favorite_number.cpp.s
 
+Simple_Programs/favorite_number_calculator.obj: Simple_Programs/favorite_number_calculator.cpp.obj
+
+.PHONY : Simple_Programs/favorite_number_calculator.obj
+
+# target to build an object file
+Simple_Programs/favorite_number_calculator.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj
+.PHONY : Simple_Programs/favorite_number_calculator.cpp.obj
+
+Simple_Programs/favorite_number_calculator.i: Simple_Programs/favorite_number_calculator.cpp.i
+
+.PHONY : Simple_Programs/favorite_number_calculator.i
+
+# target to preprocess a source file
+Simple_Programs/favorite_number_calculator.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.i
+.PHONY : Simple_Programs/favorite_number_calculator.cpp.i
+
+Simple_Programs/favorite_number_calculator.s: Simple_Programs/favorite_number_calculator.cpp.s
+
+.PHONY : Simple_Programs/favorite_number_calculator.s
+
+# target to generate assembly for a file
+Simple_Programs/favorite_number_calculator.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.s
+.PHONY : Simple_Programs/favorite_number_calculator.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -218,6 +245,9 @@ help:
 	@echo ... Simple_Programs/favorite_number.obj
 	@echo ... Simple_Programs/favorite_number.i
 	@echo ... Simple_Programs/favorite_number.s
+	@echo ... Simple_Programs/favorite_number_calculator.obj
+	@echo ... Simple_Programs/favorite_number_calculator.i
+	@echo ... Simple_Programs/favorite_number_calculator.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

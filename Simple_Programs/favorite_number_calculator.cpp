@@ -3,10 +3,9 @@
 //
 // Simple favorite-number program!
 //
-// How do I call this function in main.cpp? I hope I find out! -Ryan 9/7/2019
+// How do I call this function(class?) in main.cpp? I hope I find out! -Ryan 9/7/2019
 //
 
-#include "favorite_number.h"
 #include <iostream>
 
 int favorite_number() {
