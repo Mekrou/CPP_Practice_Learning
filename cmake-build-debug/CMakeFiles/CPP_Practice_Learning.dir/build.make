@@ -69,22 +69,9 @@ CMakeFiles/CPP_Practice_Learning.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Practice_Learning.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\main.cpp -o CMakeFiles\CPP_Practice_Learning.dir\main.cpp.s
 
-CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj: CMakeFiles/CPP_Practice_Learning.dir/flags.make
-CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj: ../Simple_Programs/favorite_number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Practice_Learning.dir\Simple_Programs\favorite_number.cpp.obj -c C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Simple_Programs\favorite_number.cpp
-
-CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Simple_Programs\favorite_number.cpp > CMakeFiles\CPP_Practice_Learning.dir\Simple_Programs\favorite_number.cpp.i
-
-CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Simple_Programs\favorite_number.cpp -o CMakeFiles\CPP_Practice_Learning.dir\Simple_Programs\favorite_number.cpp.s
-
 CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj: CMakeFiles/CPP_Practice_Learning.dir/flags.make
 CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj: ../Notes_Practice/operators.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Practice_Learning.dir\Notes_Practice\operators.cpp.obj -c C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Notes_Practice\operators.cpp
 
 CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.i: cmake_force
@@ -97,7 +84,7 @@ CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.s: cmake_force
 
 CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj: CMakeFiles/CPP_Practice_Learning.dir/flags.make
 CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj: ../Simple_Programs/favorite_number_calculator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Practice_Learning.dir\Simple_Programs\favorite_number_calculator.cpp.obj -c C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Simple_Programs\favorite_number_calculator.cpp
 
 CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.i: cmake_force
@@ -108,20 +95,33 @@ CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Simple_Programs\favorite_number_calculator.cpp -o CMakeFiles\CPP_Practice_Learning.dir\Simple_Programs\favorite_number_calculator.cpp.s
 
+CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.obj: CMakeFiles/CPP_Practice_Learning.dir/flags.make
+CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.obj: ../Notes_Practice/favorite_number_notes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Practice_Learning.dir\Notes_Practice\favorite_number_notes.cpp.obj -c C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Notes_Practice\favorite_number_notes.cpp
+
+CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Notes_Practice\favorite_number_notes.cpp > CMakeFiles\CPP_Practice_Learning.dir\Notes_Practice\favorite_number_notes.cpp.i
+
+CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryan0\CLionProjects\CPP_Practice+Learning\Notes_Practice\favorite_number_notes.cpp -o CMakeFiles\CPP_Practice_Learning.dir\Notes_Practice\favorite_number_notes.cpp.s
+
 # Object files for target CPP_Practice_Learning
 CPP_Practice_Learning_OBJECTS = \
 "CMakeFiles/CPP_Practice_Learning.dir/main.cpp.obj" \
-"CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj" \
 "CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj" \
-"CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj"
+"CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj" \
+"CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.obj"
 
 # External object files for target CPP_Practice_Learning
 CPP_Practice_Learning_EXTERNAL_OBJECTS =
 
 CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/main.cpp.obj
-CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number.cpp.obj
 CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.obj
 CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/Simple_Programs/favorite_number_calculator.cpp.obj
+CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.obj
 CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/build.make
 CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/linklibs.rsp
 CPP_Practice_Learning.exe: CMakeFiles/CPP_Practice_Learning.dir/objects1.rsp
