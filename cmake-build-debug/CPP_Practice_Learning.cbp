@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/comments_notes.cpp">
+			<Option target="CPP_Practice_Learning"/>
+		</Unit>
 		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/favorite_number_notes.cpp">
 			<Option target="CPP_Practice_Learning"/>
 		</Unit>

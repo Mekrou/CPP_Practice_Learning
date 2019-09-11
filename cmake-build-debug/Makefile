@@ -122,6 +122,33 @@ CPP_Practice_Learning/fast:
 	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/build
 .PHONY : CPP_Practice_Learning/fast
 
+Notes_Practice/comments_notes.obj: Notes_Practice/comments_notes.cpp.obj
+
+.PHONY : Notes_Practice/comments_notes.obj
+
+# target to build an object file
+Notes_Practice/comments_notes.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/comments_notes.cpp.obj
+.PHONY : Notes_Practice/comments_notes.cpp.obj
+
+Notes_Practice/comments_notes.i: Notes_Practice/comments_notes.cpp.i
+
+.PHONY : Notes_Practice/comments_notes.i
+
+# target to preprocess a source file
+Notes_Practice/comments_notes.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/comments_notes.cpp.i
+.PHONY : Notes_Practice/comments_notes.cpp.i
+
+Notes_Practice/comments_notes.s: Notes_Practice/comments_notes.cpp.s
+
+.PHONY : Notes_Practice/comments_notes.s
+
+# target to generate assembly for a file
+Notes_Practice/comments_notes.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/comments_notes.cpp.s
+.PHONY : Notes_Practice/comments_notes.cpp.s
+
 Notes_Practice/favorite_number_notes.obj: Notes_Practice/favorite_number_notes.cpp.obj
 
 .PHONY : Notes_Practice/favorite_number_notes.obj
@@ -239,6 +266,9 @@ help:
 	@echo ... CPP_Practice_Learning
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Notes_Practice/comments_notes.obj
+	@echo ... Notes_Practice/comments_notes.i
+	@echo ... Notes_Practice/comments_notes.s
 	@echo ... Notes_Practice/favorite_number_notes.obj
 	@echo ... Notes_Practice/favorite_number_notes.i
 	@echo ... Notes_Practice/favorite_number_notes.s
