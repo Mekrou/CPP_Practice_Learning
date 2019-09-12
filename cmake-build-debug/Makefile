@@ -149,32 +149,32 @@ Notes_Practice/comments_notes.cpp.s:
 	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/comments_notes.cpp.s
 .PHONY : Notes_Practice/comments_notes.cpp.s
 
-Notes_Practice/favorite_number_notes.obj: Notes_Practice/favorite_number_notes.cpp.obj
+Notes_Practice/initilizing_variables.obj: Notes_Practice/initilizing_variables.cpp.obj
 
-.PHONY : Notes_Practice/favorite_number_notes.obj
+.PHONY : Notes_Practice/initilizing_variables.obj
 
 # target to build an object file
-Notes_Practice/favorite_number_notes.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.obj
-.PHONY : Notes_Practice/favorite_number_notes.cpp.obj
+Notes_Practice/initilizing_variables.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/initilizing_variables.cpp.obj
+.PHONY : Notes_Practice/initilizing_variables.cpp.obj
 
-Notes_Practice/favorite_number_notes.i: Notes_Practice/favorite_number_notes.cpp.i
+Notes_Practice/initilizing_variables.i: Notes_Practice/initilizing_variables.cpp.i
 
-.PHONY : Notes_Practice/favorite_number_notes.i
+.PHONY : Notes_Practice/initilizing_variables.i
 
 # target to preprocess a source file
-Notes_Practice/favorite_number_notes.cpp.i:
-	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.i
-.PHONY : Notes_Practice/favorite_number_notes.cpp.i
+Notes_Practice/initilizing_variables.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/initilizing_variables.cpp.i
+.PHONY : Notes_Practice/initilizing_variables.cpp.i
 
-Notes_Practice/favorite_number_notes.s: Notes_Practice/favorite_number_notes.cpp.s
+Notes_Practice/initilizing_variables.s: Notes_Practice/initilizing_variables.cpp.s
 
-.PHONY : Notes_Practice/favorite_number_notes.s
+.PHONY : Notes_Practice/initilizing_variables.s
 
 # target to generate assembly for a file
-Notes_Practice/favorite_number_notes.cpp.s:
-	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/favorite_number_notes.cpp.s
-.PHONY : Notes_Practice/favorite_number_notes.cpp.s
+Notes_Practice/initilizing_variables.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/initilizing_variables.cpp.s
+.PHONY : Notes_Practice/initilizing_variables.cpp.s
 
 Notes_Practice/operators.obj: Notes_Practice/operators.cpp.obj
 
@@ -269,9 +269,9 @@ help:
 	@echo ... Notes_Practice/comments_notes.obj
 	@echo ... Notes_Practice/comments_notes.i
 	@echo ... Notes_Practice/comments_notes.s
-	@echo ... Notes_Practice/favorite_number_notes.obj
-	@echo ... Notes_Practice/favorite_number_notes.i
-	@echo ... Notes_Practice/favorite_number_notes.s
+	@echo ... Notes_Practice/initilizing_variables.obj
+	@echo ... Notes_Practice/initilizing_variables.i
+	@echo ... Notes_Practice/initilizing_variables.s
 	@echo ... Notes_Practice/operators.obj
 	@echo ... Notes_Practice/operators.i
 	@echo ... Notes_Practice/operators.s

@@ -3,4 +3,4 @@ project(CPP_Practice_Learning)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPP_Practice_Learning main.cpp Notes_Practice/operators.cpp Simple_Programs/favorite_number_calculator.cpp Notes_Practice/comments_notes.cpp)
+add_executable(CPP_Practice_Learning main.cpp Notes_Practice/operators.cpp Simple_Programs/favorite_number_calculator.cpp Notes_Practice/comments_notes.cpp Notes_Practice/initilizing_variables.cpp)
