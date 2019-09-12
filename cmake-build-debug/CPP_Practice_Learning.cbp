@@ -83,7 +83,10 @@
 		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/comments_notes.cpp">
 			<Option target="CPP_Practice_Learning"/>
 		</Unit>
-		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/initilizing_variables.cpp">
+		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/global_variables.cpp">
+			<Option target="CPP_Practice_Learning"/>
+		</Unit>
+		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/initializing_variables.cpp">
 			<Option target="CPP_Practice_Learning"/>
 		</Unit>
 		<Unit filename="C:/Users/ryan0/CLionProjects/CPP_Practice+Learning/Notes_Practice/operators.cpp">
