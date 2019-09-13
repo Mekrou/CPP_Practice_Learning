@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/comments_notes.cpp.obj"
   "CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/initializing_variables.cpp.obj"
   "CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/global_variables.cpp.obj"
+  "CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/size_of_operator.cpp.obj"
   "CPP_Practice_Learning.pdb"
   "CPP_Practice_Learning.exe"
   "CPP_Practice_Learning.exe.manifest"

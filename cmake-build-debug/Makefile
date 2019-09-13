@@ -230,6 +230,33 @@ Notes_Practice/operators.cpp.s:
 	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/operators.cpp.s
 .PHONY : Notes_Practice/operators.cpp.s
 
+Notes_Practice/size_of_operator.obj: Notes_Practice/size_of_operator.cpp.obj
+
+.PHONY : Notes_Practice/size_of_operator.obj
+
+# target to build an object file
+Notes_Practice/size_of_operator.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/size_of_operator.cpp.obj
+.PHONY : Notes_Practice/size_of_operator.cpp.obj
+
+Notes_Practice/size_of_operator.i: Notes_Practice/size_of_operator.cpp.i
+
+.PHONY : Notes_Practice/size_of_operator.i
+
+# target to preprocess a source file
+Notes_Practice/size_of_operator.cpp.i:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/size_of_operator.cpp.i
+.PHONY : Notes_Practice/size_of_operator.cpp.i
+
+Notes_Practice/size_of_operator.s: Notes_Practice/size_of_operator.cpp.s
+
+.PHONY : Notes_Practice/size_of_operator.s
+
+# target to generate assembly for a file
+Notes_Practice/size_of_operator.cpp.s:
+	$(MAKE) -f CMakeFiles\CPP_Practice_Learning.dir\build.make CMakeFiles/CPP_Practice_Learning.dir/Notes_Practice/size_of_operator.cpp.s
+.PHONY : Notes_Practice/size_of_operator.cpp.s
+
 Simple_Programs/favorite_number_calculator.obj: Simple_Programs/favorite_number_calculator.cpp.obj
 
 .PHONY : Simple_Programs/favorite_number_calculator.obj
@@ -305,6 +332,9 @@ help:
 	@echo ... Notes_Practice/operators.obj
 	@echo ... Notes_Practice/operators.i
 	@echo ... Notes_Practice/operators.s
+	@echo ... Notes_Practice/size_of_operator.obj
+	@echo ... Notes_Practice/size_of_operator.i
+	@echo ... Notes_Practice/size_of_operator.s
 	@echo ... Simple_Programs/favorite_number_calculator.obj
 	@echo ... Simple_Programs/favorite_number_calculator.i
 	@echo ... Simple_Programs/favorite_number_calculator.s
